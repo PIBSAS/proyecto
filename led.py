@@ -9,3 +9,4 @@ while True:
     time.sleep(3) # Esperar 3 segundos
     led.value(0)  # Apagar el LED
     time.sleep(6) # Esperar 6 segundos
+# Gracias forro!
